@@ -1,0 +1,26 @@
+﻿Country,LicenseCostMin,LicenseCostMax,LicenseCostAvg,Currency
+NYC,80,100,90,Dollar
+United States,20,1000,510,Dollar
+Canada,,,67,Dollar
+Russia,475,679,577,Dollar
+UK,,,163,Dollar
+India,,,9.59,Dollar
+Spain,829,2322,1575.5,Dollar
+France,,,1507,Dollar
+Germany,2300,3700,3000,Dollar
+China,,,88,Dollar
+Australia,,,128,Dollar
+Mexico,,,51,Dollar
+Ireland,,,763,Dollar
+Brazil,199,373,286,Dollar
+Aregentina,,,23,Dollar
+Denmark,,,1552,Dollar
+Sweden,444,1667,1055.5,Dollar
+Norway,,,3675,Dollar
+Saudi Arabia,,,53,Dollar
+Italy,,,137,Dollar
+Thailand,,,19,Dollar
+UAE,1226,2180,1703,Dollar
+,,,,
+,,,,
+,,,,
